@@ -1,0 +1,5 @@
+numpy==2.1.2
+ipykernel
+matplotlib==3.9.2
+opencv-contrib-python==4.10.0.84
+dlib==19.24.6
